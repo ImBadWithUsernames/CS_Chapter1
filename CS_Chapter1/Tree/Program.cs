@@ -10,6 +10,12 @@ namespace Tree
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("   ^   ");
+            Console.WriteLine("  ^^^  ");
+            Console.WriteLine(" ^^^^^ ");
+            Console.WriteLine("^^^^^^^");
+            Console.WriteLine("   ^   ");
+
         }
     }
 }

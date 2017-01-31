@@ -10,6 +10,12 @@ namespace BurmaShave
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("The game laws");
+            Console.WriteLine("Ought to");
+            Console.WriteLine("Let you shoot");
+            Console.WriteLine("The bird who hands you");
+            Console.WriteLine("A substitute");
+            Console.WriteLine("Burma-Shave");
         }
     }
 }

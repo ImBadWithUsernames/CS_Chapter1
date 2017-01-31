@@ -10,6 +10,10 @@ namespace Quotation
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("The only thing we have to fear is fear itself");
+            Console.WriteLine("                                     -FDR ");
+
+
         }
     }
 }

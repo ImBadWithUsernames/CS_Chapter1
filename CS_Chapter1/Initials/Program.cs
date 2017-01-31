@@ -10,6 +10,12 @@ namespace Initials
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("     A    GGGGGG");
+            Console.WriteLine("     A    G");
+            Console.WriteLine("     A    GGG");
+            Console.WriteLine("     A    G");
+            Console.WriteLine("A    A    G");
+            Console.WriteLine("AAAAA     G");
         }
     }
 }
